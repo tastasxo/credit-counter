@@ -65,9 +65,9 @@ namespace credit_counter
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_click(object sender, EventArgs e)
         {
-            if (button1_Click 
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
